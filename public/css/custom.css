@@ -1,0 +1,173 @@
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+	.mainPart .card img{
+	width: 200px;
+	height: 220px;
+	margin: 5px 0;
+}
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+	
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+
+
+html{
+	height: 100%;
+}
+body{
+	position: relative;
+	min-height: 100%;
+}
+
+.btn-addcart{
+	padding: 5px 100px;
+    border-radius: 35px;
+}
+
+.hidden{
+	display: none;
+}
+
+.bg-menu{
+	background-color: #35cdd4;
+}
+
+.bg-sidemenu{
+	background-color: #fff;
+}
+.bg-sidemenu:hover{
+	background-color: #fff!important;
+	color: green!important;
+}
+
+.margin-top-20{
+	margin-top: 20px;
+}
+
+.list-group-item{
+	padding: 5px 5px;
+	font-weight: 700;
+}
+
+.mb-100{
+	margin-bottom: 100px
+}
+
+.list-group-item-action:focus, .list-group-item-action:hover {
+    z-index: 1;
+    color: #fff;
+    text-decoration: none;
+    background-color: #ddd;
+}
+
+.menu i{
+	font-size: 25px;
+}
+
+.mainbody .card img{
+	width: 230px;
+	height: 230px;
+	margin: 5px 0;
+}
+
+.mainPart .card img{
+	width: 230px;
+	height: 230px;
+	margin: 5px 0;
+}
+
+.slidershow img{
+	width: 230px;
+	height: 400px;
+	margin: 5px 0;
+}
+
+.product_hover:hover{
+	border: 1px solid #9e9696;
+}
+
+.chaild a {
+	background-color: #9e9696;
+}
+
+.list-group-item-action:focus, .list-group-item-action:hover {
+    z-index: 1;
+    color: #fff;
+    text-decoration: none;
+    background-color: #17a2b8;
+}
+
+.list-group-item-action:focus, .list-group-item-action {
+    z-index: 1;
+    color: #fff;
+    text-decoration: none;
+    background-color: #35cdd4;
+}
+.sidebar {
+    background-color: #35cdd4;
+    height: 398px;
+}
+
+.product_hover{
+	margin: 5px 0;
+}
+
+.menu ul li a{
+	color: #fff;
+}
+.menu ul li a:hover{
+	color: #000;
+}
+
+.menu a{
+	color: #000;
+}
+
+.menu button{
+	color: #fff;
+}
+
+.menu .navbar-brand{
+	color: #fff;
+}
+
+footer{
+	color: #fff;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	height: 150px;
+}
+
+footer p{
+	padding: 10px 0;
+    margin-left: 20px;
+}
+
+footer ul li a{
+	color: #fff;
+	margin-left: 20px
+}
+
+.condition span{
+	padding: 5px 0;
+}
+
+
+.menu-top{
+	z-index: 10001;
+	padding: 20px 0;
+}
+
+
+
+
